@@ -33,7 +33,7 @@ You can reach out for almost anything, from tech to non-tech 🌝, from serious 
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/avichalsri)
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=avichalsri&style=flat)
+![](https://komarev.com/ghpvc/?username=avichalsri&color=green)
 [![Github](https://img.shields.io/badge/avichalsri-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/avichalsri)
 
 <!-- gif Image -->
